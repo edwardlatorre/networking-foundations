@@ -1,4 +1,6 @@
-1.1 Overview of a network
+1. Network Basics
+
+1.1Overview of a network
 
 1.2 Benefits of a network
 
